@@ -7,7 +7,7 @@ use Omnipay\PayPal\Message\AbstractRequest;
 /**
  * PayPal Fetch Transaction Request
  */
-class ExpressFetchRequest extends AbstractRequest
+class FetchExpressRequest extends AbstractRequest
 {
     public function getData()
     {

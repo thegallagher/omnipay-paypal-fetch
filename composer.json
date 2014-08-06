@@ -8,6 +8,6 @@
         }
     ],
     "autoload": {
-       "psr-0": { "TheGallagher\\Omnipay\\" : "src/" }
+       "psr-0": { "TheGallagher\\Omnipay\\PayPalFetch\\" : "src/" }
     }
 }
