@@ -1,0 +1,13 @@
+{
+    "name": "thegallagher/git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Gallagher",
+            "email": "david@thegallagher.net"
+        }
+    ],
+    "require": {
+
+    }
+}
