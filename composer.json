@@ -7,7 +7,7 @@
             "email": "david@thegallagher.net"
         }
     ],
-    "require": {
-
+    "autoload": {
+       "psr-0": { "TheGallagher\\Omnipay\\" : "src/" }
     }
 }
